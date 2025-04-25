@@ -113,7 +113,7 @@
   <p>The following sections document the development history of Manoa Club Hub</p>
   <h3>Milestone 2</h3>
   <p>The goal of Milestone 2 was to create as many mockup pages as possible of the necessary pages for our project, the group deciding building the pages using Nextjs from the start to be the easiest approach.<p>
-  <p>Milestone 1 was managed using <a href="https://github.com/orgs/musicians-of-manoa/projects/1">Musicians of Manoa Project Board M1</a></p>
+  <p>Milestone 2 was managed using <a href="https://github.com/orgs/manoa-club-hub/projects/1">Manoa Club Hub Project Board M2</a></p>
 
   <!--
   <h3>Milestone 3</h3>
