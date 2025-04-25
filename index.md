@@ -1,7 +1,7 @@
 <div class="container">
   <h1 id="project-club-hub">Project: Manoa Club Hub</h1>
   <div style="display: flex; justify-content: space-around;">
-    <img src="/img/musicians-of-manoa-logo.png" alt="Musicians of Manoa Logo" style="width: 50%;">
+    <img src="/img/manoa-club-hub-logo.png" alt="Manoa Club Hub Logo" style="width: 50%;">
   </div>
   <div style="display: flex; justify-content: center;">
     <a href="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml">
