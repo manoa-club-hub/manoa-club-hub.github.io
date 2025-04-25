@@ -3,11 +3,7 @@
   <div style="display: flex; justify-content: space-around;">
     <img src="/img/manoa-club-hub-logo.png" alt="Manoa Club Hub Logo" style="width: 50%;">
   </div>
-  <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml">
-      <img src="https://github.com/musicians-of-manoa/musicians-of-manoa/actions/workflows/ci.yml/badge.svg" alt="musiciansofmanoa">
-    </a>
-  </div>
+  
 
 
   <h2>Table of Contents</h2>
