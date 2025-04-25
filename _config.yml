@@ -1,0 +1,6 @@
+title: Manoa Club Hub
+description: Displaying all the various club organizations offered at UH Manoa
+theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/manoa-club-hub
