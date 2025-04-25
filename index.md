@@ -77,7 +77,7 @@
   <p>This section provides information of interest to Next developers wishing to use this code as a basis for their own development tasks.</p>
 
   <h3>Deployment</h3>
-  <p>You can find a live deployment of the website at this link <a  href="https://musicians-of-manoa.vercel.app/">https://musicians-of-manoa.vercel.app</a>.</p>
+  <p>You can find a live deployment of the website at this link <a  href="https://manoa-club-hub.vercel.app/">https://manoa-club-hub.vercel.app</a>.</p>
 
   <h3>Installation</h3>
   First, make sure you have <a href="https://nodejs.org/en">Node</a> installed.
